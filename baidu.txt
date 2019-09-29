@@ -1,0 +1,25 @@
+baidu.com##.c-table.opr-toplist1-table
+baidu.com###con-ar
+baidu.com##.s-news-special.s-news-item.s-news-special-item-tpl-1.s-opacity-blank8.first
+baidu.com###s_xmancard_news
+baidu.com##.s-xmancard-news.s-xmancard
+baidu.com###s_ctner_contents
+baidu.com##.s-ctner-contents.s-opacity-white-background
+baidu.com##.s-bg-space.s-opacity-white-background
+baidu.com##.mine-text
+baidu.com##.s-menus-outer
+baidu.com###s_ctner_menus
+baidu.com##.s-ctner-menus.s-opacity-blank8
+baidu.com##.recordcode
+baidu.com##.copyright-text
+baidu.com##.sethome
+baidu.com##.mnav
+baidu.com##.s_bri
+baidu.com###imsg
+baidu.com###foot
+baidu.com##.show-vertical
+baidu.com##.title
+baidu.com##.setting-text
+baidu.com##a[onmousedown="return c({'fm':'tab','tab':'news'})"]
+baidu.com##a[onmousedown="return c({'fm':'tab','tab':'b2b'})"]
+baidu.com##a[onmousedown="return c({'fm':'tab','tab':'more'})"]
