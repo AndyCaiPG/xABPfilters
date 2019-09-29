@@ -1,3 +1,4 @@
+[Adblock Plus 3.1]
 baidu.com##.c-table.opr-toplist1-table
 baidu.com###con-ar
 baidu.com##.s-news-special.s-news-item.s-news-special-item-tpl-1.s-opacity-blank8.first
