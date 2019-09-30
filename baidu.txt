@@ -1,6 +1,6 @@
 [Adblock Plus 3.1]
 ! Version: 201909292255
-! Title: xABPfilters
+! Title: xABPfilters baidu
 ! Last modified: 29 Sep 2019 22:55 UTC+08:00
 ! Homepage: https://github.com/ITcyx/xABPfilters
 ! Please report any issues
