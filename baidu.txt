@@ -1,4 +1,13 @@
 [Adblock Plus 3.1]
+! Version: 201909292255
+! Title: xABPfilters
+! Last modified: 29 Sep 2019 22:55 UTC+08:00
+! Homepage: https://github.com/ITcyx/xABPfilters
+! Please report any issues
+! on GitHub https://github.com/ITcyx/xABPfilters/issues
+! or on Gitee https://gitee.com/ITcyx/xABPfilters/issues
+
+!----------baidu home----------!
 baidu.com##.c-table.opr-toplist1-table
 baidu.com###con-ar
 baidu.com##.s-news-special.s-news-item.s-news-special-item-tpl-1.s-opacity-blank8.first
