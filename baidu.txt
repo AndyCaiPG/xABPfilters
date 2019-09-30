@@ -1,11 +1,14 @@
 [Adblock Plus 3.1]
-! Version: 201909292255
+! Version: 201909301801
 ! Title: xABPfilters baidu
-! Last modified: 29 Sep 2019 22:55 UTC+08:00
+! Last modified: 30 Sep 2019 18:01 UTC+08:00
+! Expires: 10 days
 ! Homepage: https://github.com/ITcyx/xABPfilters
+!
 ! Please report any issues
 ! on GitHub https://github.com/ITcyx/xABPfilters/issues
 ! or on Gitee https://gitee.com/ITcyx/xABPfilters/issues
+!
 
 !----------baidu home----------!
 baidu.com##.c-table.opr-toplist1-table
@@ -33,3 +36,41 @@ baidu.com##.setting-text
 baidu.com##a[onmousedown="return c({'fm':'tab','tab':'news'})"]
 baidu.com##a[onmousedown="return c({'fm':'tab','tab':'b2b'})"]
 baidu.com##a[onmousedown="return c({'fm':'tab','tab':'more'})"]
+
+!----------baidu wenku----------!
+wenku.baidu.com##.banner-core-wrap.super-vip
+wenku.baidu.com###next_doc_box
+wenku.baidu.com##.reader-tools-bar-wrap.tools-bar-small.tools-bar-smaller
+wenku.baidu.com###doc_bottom_wrap
+wenku.baidu.com###ft
+wenku.baidu.com##.doc-tag.doc-tag-ticket
+wenku.baidu.com##.doc-tag-wrap.super-vip
+wenku.baidu.com##.inner.clearfix
+wenku.baidu.com##.top-ads-banner-wrap.super-vip
+wenku.baidu.com##a[data-href="http://news.baidu.com"]
+wenku.baidu.com##a[data-href="https://b2b.baidu.com"]
+wenku.baidu.com##.user-my-class-new
+wenku.baidu.com##.doc-value
+wenku.baidu.com##.mn-lk.logSend
+wenku.baidu.com###my-wkHome-vip-tips
+wenku.baidu.com##.crubms-wrap
+wenku.baidu.com##.doc-upload 
+wenku.baidu.com##.qua-box
+wenku.baidu.com##.open-in-phone.narrow-screen
+wenku.baidu.com##.fix-searchbar-wrap
+wenku.baidu.com##a[data-product="b2b"]
+wenku.baidu.com###reader-copy-button
+wenku.baidu.com###reader-qrcode-button
+wenku.baidu.com##div[class="reader-tools-bar-wrap tools-bar-small"]
+wenku.baidu.com###upload
+wenku.baidu.com##img[class="addcur"]
+wenku.baidu.com###page-wrap
+wenku.baidu.com##.has-money-pay
+wenku.baidu.com##.mod.tousu
+||yuedu.baidu.com/hybrid/wkrec/search?word=%u6587%u5E93
+wenku.baidu.com##.vip-card
+wenku.baidu.com##*[href="http://www.baidu.com/more/"]
+wenku.baidu.com##.search-nav
+wenku.baidu.com##.screen-hd-wrap.clearfix
+wenku.baidu.com###screen-hd
+wenku.baidu.com###screen-bd
