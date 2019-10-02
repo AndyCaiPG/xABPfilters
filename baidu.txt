@@ -1,7 +1,7 @@
 [Adblock Plus 3.1]
-! Version: 201909301942
+! Version: 201910021102
 ! Title: xABPfilters baidu
-! Last modified: 30 Sep 2019 19:42 UTC+08:00
+! Last modified: 2 Oct 2019 11:02 UTC+08:00
 ! Expires: 10 days
 ! Homepage: https://github.com/ITcyx/xABPfilters
 !
@@ -26,7 +26,6 @@ baidu.com##.s-ctner-menus.s-opacity-blank8
 baidu.com##.recordcode
 baidu.com##.copyright-text
 baidu.com##.sethome
-baidu.com##.mnav
 baidu.com##.s_bri
 baidu.com###imsg
 baidu.com###foot
@@ -36,6 +35,11 @@ baidu.com##.setting-text
 baidu.com##a[onmousedown="return c({'fm':'tab','tab':'news'})"]
 baidu.com##a[onmousedown="return c({'fm':'tab','tab':'b2b'})"]
 baidu.com##a[onmousedown="return c({'fm':'tab','tab':'more'})"]
+baidu.com###content_right
+baidu.com##a[name="tj_briicon"]
+baidu.com##a[name="tj_trhao123"]
+baidu.com##.qrcodeCon
+baidu.com###ftCon
 
 !----------baidu wenku----------!
 wenku.baidu.com##.banner-core-wrap.super-vip
@@ -75,6 +79,12 @@ wenku.baidu.com##.screen-hd-wrap.clearfix
 wenku.baidu.com###screen-hd
 wenku.baidu.com###screen-bd
 wenku.baidu.com##.doc-desc-all
+wenku.baidu.com##.reader-feedback.log-xsend.help-feedback
+wenku.baidu.com##.reader-convert
+wenku.baidu.com##.reader-download-app
+wenku.baidu.com##.go-crawer.log-xsend
+wenku.baidu.com##.fankui
+wenku.baidu.com##a[alog-action="userbar.logoutapp"]
 
 !----------baidu zhidao----------!
 zhidao.baidu.com##.nav-menu.line
@@ -127,3 +137,11 @@ baike.baidu.com##.tool-buttons
 baike.baidu.com##.posterFlag.excellent-icon
 baike.baidu.com##.top-tool 
 baike.baidu.com##.tashuo-bottom
+baike.baidu.com##.declare-wrap
+baike.baidu.com##.publicizing-wrapper
+baike.baidu.com##.contentArea-wrapper
+baike.baidu.com##.userArea-wrapper
+baike.baidu.com##.adArea-wrapper
+baike.baidu.com##.featureArea-wrapper
+baike.baidu.com##.catalog-wrapper
+baike.baidu.com##.cooperation-wrapper

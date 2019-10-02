@@ -1,7 +1,7 @@
 [Adblock Plus 3.1]
-! Version: 201910020925
+! Version: 201910021102
 ! Title: xABPfilters
-! Last modified: 2 Oct 2019 09:25 UTC+08:00
+! Last modified: 2 Oct 2019 11:02 UTC+08:00
 ! Expires: 10 days
 ! Homepage: https://github.com/ITcyx/xABPfilters
 !
@@ -28,7 +28,6 @@ baidu.com##.s-ctner-menus.s-opacity-blank8
 baidu.com##.recordcode
 baidu.com##.copyright-text
 baidu.com##.sethome
-baidu.com##.mnav
 baidu.com##.s_bri
 baidu.com###imsg
 baidu.com###foot
@@ -39,6 +38,10 @@ baidu.com##a[onmousedown="return c({'fm':'tab','tab':'news'})"]
 baidu.com##a[onmousedown="return c({'fm':'tab','tab':'b2b'})"]
 baidu.com##a[onmousedown="return c({'fm':'tab','tab':'more'})"]
 baidu.com###content_right
+baidu.com##a[name="tj_briicon"]
+baidu.com##a[name="tj_trhao123"]
+baidu.com##.qrcodeCon
+baidu.com###ftCon
 
 !----------baidu wenku----------!
 wenku.baidu.com##.banner-core-wrap.super-vip
