@@ -1,7 +1,7 @@
 [Adblock Plus 3.1]
-! Version: 201910021102
+! Version: 201910041035
 ! Title: xABPfilters
-! Last modified: 2 Oct 2019 11:02 UTC+08:00
+! Last modified: 4 Oct 2019 10:35 UTC+08:00
 ! Expires: 10 days
 ! Homepage: https://github.com/ITcyx/xABPfilters
 !
@@ -42,6 +42,7 @@ baidu.com##a[name="tj_briicon"]
 baidu.com##a[name="tj_trhao123"]
 baidu.com##.qrcodeCon
 baidu.com###ftCon
+baidu.com##a[href="https://www.hao123.com"]
 
 !----------baidu wenku----------!
 wenku.baidu.com##.banner-core-wrap.super-vip
@@ -149,3 +150,63 @@ baike.baidu.com##.catalog-wrapper
 baike.baidu.com##.cooperation-wrapper
 
 !----------END baidu----------!
+
+
+
+
+
+
+
+
+
+
+!----------START bing----------!
+
+bing.com##.aca_contact
+bing.com##.ads_dwn.bottom_ad
+bing.com##.ads_dwn.center_ad
+bing.com##.ads_dwn.top_ad
+bing.com###b_pole
+bing.com##ol#b_context
+bing.com###b_opalpers
+bing.com###hp_scroll
+bing.com##.b_footer
+bing.com###shBingAppQR
+bing.com##.dict_banner
+bing.com##.adsblock
+
+!----------END bing----------!
+
+
+
+
+
+
+
+
+
+!----------START zhihu----------!
+
+zhihu.com##.NationalDay2019Banner
+
+!----------END zhihu----------!
+
+
+
+
+
+
+
+
+
+!----------START zhihu----------!
+
+csdn.net##a.option-box[data-type="vip"]
+csdn.net##.right_box.footer_box.csdn-tracking-statistics
+csdn.net##.persion_article
+csdn.net##a.option-box[data-type="cs"]
+csdn.net##a.option-box[data-type="app"]
+blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.right_box.footer_box.csdn-tracking-statistics
+
+!----------END zhihu----------!
