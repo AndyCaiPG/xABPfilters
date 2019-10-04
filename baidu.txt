@@ -1,7 +1,7 @@
 [Adblock Plus 3.1]
-! Version: 201910021102
+! Version: 201910040934
 ! Title: xABPfilters baidu
-! Last modified: 2 Oct 2019 11:02 UTC+08:00
+! Last modified: 4 Oct 2019 09:34 UTC+08:00
 ! Expires: 10 days
 ! Homepage: https://github.com/ITcyx/xABPfilters
 !
@@ -40,6 +40,7 @@ baidu.com##a[name="tj_briicon"]
 baidu.com##a[name="tj_trhao123"]
 baidu.com##.qrcodeCon
 baidu.com###ftCon
+baidu.com##a[href="https://www.hao123.com"]
 
 !----------baidu wenku----------!
 wenku.baidu.com##.banner-core-wrap.super-vip
