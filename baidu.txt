@@ -41,6 +41,10 @@ baidu.com##a[name="tj_trhao123"]
 baidu.com##.qrcodeCon
 baidu.com###ftCon
 baidu.com##a[href="https://www.hao123.com"]
+baidu.com###bottom_layer
+baidu.com###s_top_feed
+baidu.com###s_qrcode_feed
+baidu.com###s_feedback_feed
 
 !----------baidu wenku----------!
 wenku.baidu.com##.banner-core-wrap.super-vip
