@@ -195,7 +195,7 @@ bing.com##.adsblock
 
 !----------START zhihu----------!
 
-zhihu.com##.NationalDay2019Banner
+zhihu.com##a[href="https://www.zhihu.com/xen/market/story-contest"]
 
 !----------END zhihu----------!
 
@@ -207,7 +207,7 @@ zhihu.com##.NationalDay2019Banner
 
 
 
-!----------START zhihu----------!
+!----------START csdn----------!
 
 csdn.net##a.option-box[data-type="vip"]
 csdn.net##.right_box.footer_box.csdn-tracking-statistics
@@ -217,4 +217,4 @@ csdn.net##a.option-box[data-type="app"]
 blog.csdn.net##.csdn-side-toolbar
 blog.csdn.net##.right_box.footer_box.csdn-tracking-statistics
 
-!----------END zhihu----------!
+!----------END csdn----------!
