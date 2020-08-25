@@ -45,6 +45,10 @@ baidu.com###bottom_layer
 baidu.com###s_top_feed
 baidu.com###s_qrcode_feed
 baidu.com###s_feedback_feed
+baidu.com###s_wrap
+baidu.com###s-hotsearch-wrapper
+baidu.com###hotsearch-content-wrapper
+baidu.com###s_side_wrapper
 
 !----------baidu wenku----------!
 wenku.baidu.com##.banner-core-wrap.super-vip
