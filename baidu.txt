@@ -49,6 +49,8 @@ baidu.com###s_wrap
 baidu.com###s-hotsearch-wrapper
 baidu.com###hotsearch-content-wrapper
 baidu.com###s_side_wrapper
+baidu.com##a[href="https://live.baidu.com/"]
+baidu.com##a[href="https://haokan.baidu.com/?sfrom=baidu-top"]
 
 !----------baidu wenku----------!
 wenku.baidu.com##.banner-core-wrap.super-vip
